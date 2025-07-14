@@ -2,6 +2,8 @@
 
 **FIXXA** is a location-based web app that connects users with nearby skilled professionals (electricians, plumbers, carpenters, etc.) for fast, reliable, and trackable service delivery.
 
+
+
 ### 🌍 Live Demo
 [Preview the App](https://preview--handy-pro-match.lovable.app/)
 
