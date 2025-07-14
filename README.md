@@ -36,5 +36,5 @@ Hi, I'm **Kuyik Bassey** — a designer turned frontend developer and founder of
 ---
 
 ### 📬 Contact
-For collaborations or inquiries, reach out via [LinkedIn](https://linkedin.com/in/kuyik_bassey) or [Email](mailto:basseykuyik1@gmail.com).
+For collaborations or inquiries, reach out via [LinkedIn](https://linkedin.com/in/kuyik-bassey) or [Email](mailto:basseykuyik1@gmail.com).
  
